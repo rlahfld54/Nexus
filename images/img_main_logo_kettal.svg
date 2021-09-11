@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="180" viewBox="0 0 360 180">
+  <g id="img_main_logo_kettal" transform="translate(-4011 -1419)">
+    <g id="area" transform="translate(4011 1419)" fill="rgba(255,255,255,0)" stroke="#fff" stroke-width="1" opacity="0.1">
+      <rect width="360" height="180" stroke="none"/>
+      <rect x="0.5" y="0.5" width="359" height="179" fill="none"/>
+    </g>
+    <g id="logo" transform="translate(4131 1498)" opacity="0.5">
+      <path id="패스_277" data-name="패스 277" d="M173.708,395.207l-7.987,9.863v-9.863H161.3V417.86h4.422v-6.809l2.928-3.5,5.823,10.309h5.154l-8.049-13.65,7.508-9Z" transform="translate(-161.299 -395.207)" fill="#fff"/>
+      <path id="패스_278" data-name="패스 278" d="M212.915,395.207V417.86h14.921v-3.945h-10.5v-5.5h7.533v-3.946h-7.533V399.15h10.5v-3.943Z" transform="translate(-190.2 -395.207)" fill="#fff"/>
+      <path id="패스_279" data-name="패스 279" d="M256.847,395.207v3.943h6.533v18.71H267.8V399.15h6.618v-3.943Z" transform="translate(-214.798 -395.207)" fill="#fff"/>
+      <path id="패스_280" data-name="패스 280" d="M304.482,395.207v3.943h6.532v18.71h4.423V399.15h6.618v-3.943Z" transform="translate(-241.47 -395.207)" fill="#fff"/>
+      <path id="패스_281" data-name="패스 281" d="M355.135,401.888l2.767,8.24h-5.631Zm-1.846-6.681-8.24,22.653h4.612l1.367-4.008h8.051l1.336,4.008h4.614l-8.272-22.653Z" transform="translate(-264.185 -395.207)" fill="#fff"/>
+      <path id="패스_282" data-name="패스 282" d="M400.572,395.207V417.86h14.7v-3.945H405V395.207Z" transform="translate(-295.273 -395.207)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

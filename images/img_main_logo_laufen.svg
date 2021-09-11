@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="180" viewBox="0 0 360 180">
+  <g id="img_main_logo_laufen" transform="translate(-3381 -1517)">
+    <g id="area" transform="translate(3381 1517)" fill="rgba(255,255,255,0)" stroke="#fff" stroke-width="1" opacity="0.1">
+      <rect width="360" height="180" stroke="none"/>
+      <rect x="0.5" y="0.5" width="359" height="179" fill="none"/>
+    </g>
+    <g id="logo" transform="translate(3501 1595)" opacity="0.5">
+      <path id="패스_31" data-name="패스 31" d="M30.032,29.3H32.8l-.006,18.49,11.022.006v2.328H30.022Z" transform="translate(-30.022 -28.757)" fill="#fff"/>
+      <path id="패스_32" data-name="패스 32" d="M325.377,42.559c.006,5.248-3.08,8.018-8.275,8.016-5.366,0-8.623-2.482-8.623-8.025v-13.3l2.776,0,0,13.3c0,3.675,2.177,5.688,5.854,5.69,3.5,0,5.5-2.011,5.5-5.687l.011-13.3h2.774Z" transform="translate(-266.084 -28.716)" fill="#fff"/>
+      <path id="패스_33" data-name="패스 33" d="M459.43,29.473l13.679.006,0,2.332-10.913,0,0,6.622,9.573,0v2.334l-9.573,0,0,9.537-2.77,0Z" transform="translate(-394.048 -28.902)" fill="#fff"/>
+      <path id="패스_34" data-name="패스 34" d="M581.2,29.514l14.378.006,0,2.334-11.605-.006,0,6.621,10.823,0-.006,2.335L583.971,40.8l0,7.205,11.693,0,0,2.336L581.2,50.335Z" transform="translate(-497.28 -28.937)" fill="#fff"/>
+      <path id="패스_35" data-name="패스 35" d="M709.22,29.563h2.944l10.957,16.893h.056l.009-16.889,2.622,0L725.8,50.393l-3.033,0L711.9,33.679l-.065,0,0,16.712-2.616,0Z" transform="translate(-605.809 -28.979)" fill="#fff"/>
+      <path id="패스_36" data-name="패스 36" d="M211.167,113.118l0,8.484,2.647-2.7,0-8.485Z" transform="translate(-183.585 -97.523)" fill="#fff"/>
+      <path id="패스_37" data-name="패스 37" d="M147.781,44.683l-4.861,0,8.15-14.093,8.131,14.1-4.8,0-.006,2.425,9.009,0L151.07,25.726,138.713,47.1h9.071Z" transform="translate(-122.165 -25.726)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
